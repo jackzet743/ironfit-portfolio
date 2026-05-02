@@ -43,9 +43,15 @@ export default function IronfitLanding() {
                         <Button className="rounded-xl px-6 bg-emerald-500 hover:bg-emerald-400 text-black">
                             Ver demo
                         </Button>
-                        <Button className="rounded-xl px-6 bg-slate-900 border border-slate-700 text-white hover:bg-slate-800">
-                            GitHub
-                        </Button>
+                        <a 
+                            href="https://github.com/jackzet743/ironfit-ecommerce-v2.git"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            <Button className="rounded-xl px-6 bg-slate-900 border border-slate-700 text-white hover:bg-slate-800">
+                                Ver código
+                            </Button>
+                        </a>
                     </div>
                 </section>
 
@@ -82,7 +88,7 @@ export default function IronfitLanding() {
                         ].map((f, i) => (
                             <Card key={i} className="bg-white/5 border border-white/10 rounded-2xl">
                                 <CardContent className="p-6 space-y-2">
-                                    <h3 className="font-semibold">{f.title}</h3>
+                                    <h3 className="font-semibold text-white">{f.title}</h3>
                                     <p className="text-sm text-slate-400">{f.desc}</p>
                                 </CardContent>
                             </Card>
@@ -133,9 +139,15 @@ export default function IronfitLanding() {
                         <Button className="rounded-xl px-6 bg-emerald-500 hover:bg-emerald-400 text-black">
                             Ver demo
                         </Button>
-                        <Button className="rounded-xl px-6 bg-slate-900 border border-slate-700 text-white hover:bg-slate-800">
-                            Ver código
-                        </Button>
+                        <a 
+                            href="https://github.com/jackzet743/ironfit-ecommerce-v2.git"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            <Button className="rounded-xl px-6 bg-slate-900 border border-slate-700 text-white hover:bg-slate-800">
+                                Ver código
+                            </Button>
+                        </a>
                     </div>
                 </section>
 
