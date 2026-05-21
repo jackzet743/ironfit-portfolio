@@ -45,7 +45,7 @@ export default function IronfitLanding() {
                             target="_blank"
                             rel="noopener noreferrer"
                         >
-                            <Button className="rounded-xl px-6 bg-slate-900 border border-slate-700 text-white hover:bg-slate-800">
+                            <Button className="rounded-xl px-6 bg-slate-900 border border-slate-700 text-white hover:bg-slate-800 text-emerald-400">
                                 Ver código
                             </Button>
                         </a>
@@ -138,7 +138,7 @@ export default function IronfitLanding() {
                             target="_blank"
                             rel="noopener noreferrer"
                         >
-                            <Button className="rounded-xl px-6 bg-slate-900 border border-slate-700 text-white hover:bg-slate-800">
+                            <Button className="rounded-xl px-6 bg-slate-900 border border-slate-700 text-white hover:bg-slate-800 text-emerald-400">
                                 Ver código
                             </Button>
                         </a>
