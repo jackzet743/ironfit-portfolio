@@ -130,7 +130,7 @@ export default function IronfitLanding() {
                 {/* CTA */}
                 <section id="demo" className="text-center space-y-6">
                     <h2 className="text-3xl font-semibold">Ready to explore?</h2>
-                    <p className="text-slate-400">Proyecto listo para demostración técnica y revisión de código.</p>
+                    <p className="text-slate-400">Proyecto listo para revisión del código.</p>
 
                     <div className="flex justify-center gap-4">
                         <a 
