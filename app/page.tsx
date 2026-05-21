@@ -40,9 +40,6 @@ export default function IronfitLanding() {
                     </p>
 
                     <div className="flex justify-center gap-4 pt-2">
-                        <Button className="rounded-xl px-6 bg-emerald-500 hover:bg-emerald-400 text-black">
-                            Ver demo
-                        </Button>
                         <a 
                             href="https://github.com/jackzet743/ironfit-ecommerce-v2.git"
                             target="_blank"
