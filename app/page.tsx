@@ -39,7 +39,7 @@ export default function IronfitLanding() {
                         Plataforma ecommerce de suplementación deportiva con pagos reales, automatización de emails y arquitectura escalable lista para producción.
                     </p>
 
-                    <div className="flex justify-center gap-4 pt-2 text-emerald-400">
+                    <div className="flex justify-center gap-4 pt-2 bg-emerald-400">
                         <a 
                             href="https://github.com/jackzet743/ironfit-ecommerce-v2.git"
                             target="_blank"
@@ -132,7 +132,7 @@ export default function IronfitLanding() {
                     <h2 className="text-3xl font-semibold">Ready to explore?</h2>
                     <p className="text-slate-400">Proyecto listo para demostración técnica y revisión de código.</p>
 
-                    <div className="flex justify-center gap-4 text-emerald-400">
+                    <div className="flex justify-center gap-4 bg-emerald-400">
                         <a 
                             href="https://github.com/jackzet743/ironfit-ecommerce-v2.git"
                             target="_blank"
